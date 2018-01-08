@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif|Open+Sans');
+/***************************************************
+Add your Google Fonts
+L the named colours to create a monochromatic scheme
+Style the menus - one horizontally and one vertically
+Add the hover/active effects to your menu items
+***************************************************/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color:#263008;
+    background-color:#BDE2D9;
+   /* color: #10512A;*/
+}
+
+.xnavbar, .xnavbar-light{
+   background-color:#10512A; 
+}
+
+h1, h2, h3, h4, h5{
+   font-family: "Droid Serif", 'Palatino Linotype', 'Book Antiqua', Palatino, serif; 
+    color:#10512A;
+    background-color: #8CE561;
+    padding: 1rem;
+}
+
+footer{
+    color: #10512A;
+}
+
+html, body, a{
+    font-family: "Open Sans", helvetica, arial, sans-serif;
+}
+
+/* colour scheme
+
+#BDE2D9
+#10512A
+#263008
+#67FC72
+#8CE561
+
+*/
